@@ -1,6 +1,6 @@
 # PromptWars '26 
 # 📚 AI Lecture Revision Engine
-> **PromptWars Community 2026 Submission** | *Option A: AI-Powered Student Workspace*
+> **PromptWars Community 2026 Submission** | *AI-Powered Student Workspace*
 
 An intent-driven, AI-powered study tool that transforms raw lecture materials into structured revision guides, terminology cheat sheets, and interactive practice quizzes in seconds.
 
