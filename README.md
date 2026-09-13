@@ -1,5 +1,3 @@
-# Prompt Wars '26 
-# 📚 AI Lecture Revision Engine
 # 🎓 AI Lecture Revision Engine
 
 > **AI-Powered Student Workspace**: Transform dense lecture materials (PDF, DOCX, TXT) into a high-yield study kit with executive summaries, key definitions & formulas cheat sheets, and 5-question interactive practice quizzes.
