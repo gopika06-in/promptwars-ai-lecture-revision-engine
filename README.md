@@ -1,4 +1,4 @@
-# PromptWars '26 
+# Prompt Wars '26 
 # 📚 AI Lecture Revision Engine
 > **PromptWars Community 2026 Submission** | *AI-Powered Student Workspace*
 
